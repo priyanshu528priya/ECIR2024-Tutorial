@@ -45,4 +45,4 @@
 
 # Brief CV of Presenters
 
-[CV](https://drive.google.com/file/d/1R18fIulin15fB6Vmxa3tzKHNCMQcLJxs/view?usp=sharing)
+[CV](https://github.com/priyanshu528priya/ECIR2024-Tutorial/blob/main/CV-ecir24.pdf)
